@@ -1,0 +1,72 @@
+C:\Users\toshiba\source\repos\Coffee shop management system\Coffee shop management system\bin\Debug\Coffee shop management system.exe.config
+C:\Users\toshiba\source\repos\Coffee shop management system\Coffee shop management system\bin\Debug\Coffee shop management system.exe
+C:\Users\toshiba\source\repos\Coffee shop management system\Coffee shop management system\bin\Debug\Coffee shop management system.pdb
+C:\Users\toshiba\source\repos\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee shop management system.csproj.AssemblyReference.cache
+C:\Users\toshiba\source\repos\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee shop management system.csproj.SuggestedBindingRedirects.cache
+C:\Users\toshiba\source\repos\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee_shop_management_system.Properties.Resources.resources
+C:\Users\toshiba\source\repos\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee shop management system.csproj.GenerateResource.cache
+C:\Users\toshiba\source\repos\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee shop management system.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\source\repos\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee shop management system.exe
+C:\Users\toshiba\source\repos\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee shop management system.pdb
+C:\Users\toshiba\source\repos\Coffee shop management system\Coffee shop management system\bin\Debug\MySql.Data.dll
+C:\Users\toshiba\source\repos\Coffee shop management system\Coffee shop management system\bin\Debug\MySql.Data.xml
+C:\Users\toshiba\source\repos\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee_shop_management_system.CreateAccount.resources
+C:\Users\toshiba\source\repos\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee shop management system.csproj.CopyComplete
+C:\Users\toshiba\source\repos\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee_shop_management_system.Loginform.resources
+C:\Users\toshiba\source\repos\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee_shop_management_system.MainMenu.resources
+C:\Users\toshiba\source\repos\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee_shop_management_system.AllUserControls.UC_welcome.resources
+C:\Users\toshiba\source\repos\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee_shop_management_system.AllUserControls.UC_Manager.resources
+C:\Users\toshiba\source\repos\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee_shop_management_system.AllUserControls.UC_employee.resources
+C:\Users\toshiba\source\repos\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee_shop_management_system.AllUserControls.UC_customer.resources
+C:\Users\toshiba\source\repos\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee_shop_management_system.AllUserControls.UC_ItemAdd.resources
+C:\Users\toshiba\source\repos\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee_shop_management_system.AllUserControls.placeorder.resources
+C:\Users\toshiba\source\repos\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee_shop_management_system.Register.resources
+E:\VS Project\Coffee shop management system\Coffee shop management system\bin\Debug\coffeeshop.mdf
+E:\VS Project\Coffee shop management system\Coffee shop management system\bin\Debug\coffeeshop_log.ldf
+E:\VS Project\Coffee shop management system\Coffee shop management system\bin\Debug\Coffee shop management system.exe.config
+E:\VS Project\Coffee shop management system\Coffee shop management system\bin\Debug\Coffee shop management system.exe
+E:\VS Project\Coffee shop management system\Coffee shop management system\bin\Debug\Coffee shop management system.pdb
+E:\VS Project\Coffee shop management system\Coffee shop management system\bin\Debug\MySql.Data.dll
+E:\VS Project\Coffee shop management system\Coffee shop management system\bin\Debug\MySql.Data.xml
+E:\VS Project\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee shop management system.csproj.AssemblyReference.cache
+E:\VS Project\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee shop management system.csproj.SuggestedBindingRedirects.cache
+E:\VS Project\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee_shop_management_system.AllUserControls.placeorder.resources
+E:\VS Project\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee_shop_management_system.AllUserControls.UC_customer.resources
+E:\VS Project\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee_shop_management_system.AllUserControls.UC_employee.resources
+E:\VS Project\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee_shop_management_system.AllUserControls.UC_ItemAdd.resources
+E:\VS Project\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee_shop_management_system.AllUserControls.UC_Manager.resources
+E:\VS Project\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee_shop_management_system.AllUserControls.UC_welcome.resources
+E:\VS Project\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee_shop_management_system.MainMenu.resources
+E:\VS Project\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee_shop_management_system.Properties.Resources.resources
+E:\VS Project\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee_shop_management_system.Register.resources
+E:\VS Project\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee shop management system.csproj.GenerateResource.cache
+E:\VS Project\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee shop management system.csproj.CoreCompileInputs.cache
+E:\VS Project\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee shop management system.csproj.CopyComplete
+E:\VS Project\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee shop management system.exe
+E:\VS Project\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee shop management system.pdb
+E:\VS Project\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee_shop_management_system.loginfrom.resources
+D:\VS Project\Coffee shop management system\Coffee shop management system\bin\Debug\coffeeshop.mdf
+D:\VS Project\Coffee shop management system\Coffee shop management system\bin\Debug\coffeeshop_log.ldf
+D:\VS Project\Coffee shop management system\Coffee shop management system\bin\Debug\Coffee shop management system.exe.config
+D:\VS Project\Coffee shop management system\Coffee shop management system\bin\Debug\Coffee shop management system.exe
+D:\VS Project\Coffee shop management system\Coffee shop management system\bin\Debug\Coffee shop management system.pdb
+D:\VS Project\Coffee shop management system\Coffee shop management system\bin\Debug\MySql.Data.xml
+D:\VS Project\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee shop management system.csproj.AssemblyReference.cache
+D:\VS Project\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee_shop_management_system.AllUserControls.placeorder.resources
+D:\VS Project\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee_shop_management_system.AllUserControls.UC_customer.resources
+D:\VS Project\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee_shop_management_system.AllUserControls.UC_employee.resources
+D:\VS Project\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee_shop_management_system.AllUserControls.UC_ItemAdd.resources
+D:\VS Project\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee_shop_management_system.AllUserControls.UC_Manager.resources
+D:\VS Project\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee_shop_management_system.AllUserControls.UC_welcome.resources
+D:\VS Project\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee_shop_management_system.loginfrom.resources
+D:\VS Project\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee_shop_management_system.MainMenu.resources
+D:\VS Project\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee_shop_management_system.Properties.Resources.resources
+D:\VS Project\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee_shop_management_system.Register.resources
+D:\VS Project\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee shop management system.csproj.GenerateResource.cache
+D:\VS Project\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee shop management system.csproj.CoreCompileInputs.cache
+D:\VS Project\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee shop management system.csproj.CopyComplete
+D:\VS Project\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee shop management system.exe
+D:\VS Project\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee shop management system.pdb
+D:\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee shop management system.csproj.AssemblyReference.cache
+D:\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee shop management system.exe
+D:\Coffee shop management system\Coffee shop management system\obj\Debug\Coffee shop management system.pdb

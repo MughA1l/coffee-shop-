@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coffee shop management system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFAD131-03EA-4954-A03E-F4D47B9A8289}|Coffee shop management system\\Coffee shop management system.csproj|D:\\Coffee shop management system\\coffee shop management system\\loginfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFAD131-03EA-4954-A03E-F4D47B9A8289}|Coffee shop management system\\Coffee shop management system.csproj|solutionrelative:coffee shop management system\\loginfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFAD131-03EA-4954-A03E-F4D47B9A8289}|Coffee shop management system\\Coffee shop management system.csproj|d:\\coffee shop management system\\coffee shop management system\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFAD131-03EA-4954-A03E-F4D47B9A8289}|Coffee shop management system\\Coffee shop management system.csproj|solutionrelative:coffee shop management system\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFAD131-03EA-4954-A03E-F4D47B9A8289}|Coffee shop management system\\Coffee shop management system.csproj|D:\\Coffee shop management system\\coffee shop management system\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFAD131-03EA-4954-A03E-F4D47B9A8289}|Coffee shop management system\\Coffee shop management system.csproj|solutionrelative:coffee shop management system\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFAD131-03EA-4954-A03E-F4D47B9A8289}|Coffee shop management system\\Coffee shop management system.csproj|D:\\Coffee shop management system\\coffee shop management system\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EFAD131-03EA-4954-A03E-F4D47B9A8289}|Coffee shop management system\\Coffee shop management system.csproj|solutionrelative:coffee shop management system\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFAD131-03EA-4954-A03E-F4D47B9A8289}|Coffee shop management system\\Coffee shop management system.csproj|D:\\Coffee shop management system\\coffee shop management system\\loginfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EFAD131-03EA-4954-A03E-F4D47B9A8289}|Coffee shop management system\\Coffee shop management system.csproj|solutionrelative:coffee shop management system\\loginfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFAD131-03EA-4954-A03E-F4D47B9A8289}|Coffee shop management system\\Coffee shop management system.csproj|D:\\Coffee shop management system\\coffee shop management system\\allusercontrols\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFAD131-03EA-4954-A03E-F4D47B9A8289}|Coffee shop management system\\Coffee shop management system.csproj|solutionrelative:coffee shop management system\\allusercontrols\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFAD131-03EA-4954-A03E-F4D47B9A8289}|Coffee shop management system\\Coffee shop management system.csproj|D:\\Coffee shop management system\\coffee shop management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFAD131-03EA-4954-A03E-F4D47B9A8289}|Coffee shop management system\\Coffee shop management system.csproj|solutionrelative:coffee shop management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFAD131-03EA-4954-A03E-F4D47B9A8289}|Coffee shop management system\\Coffee shop management system.csproj|D:\\Coffee shop management system\\coffee shop management system\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EFAD131-03EA-4954-A03E-F4D47B9A8289}|Coffee shop management system\\Coffee shop management system.csproj|solutionrelative:coffee shop management system\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFAD131-03EA-4954-A03E-F4D47B9A8289}|Coffee shop management system\\Coffee shop management system.csproj|D:\\Coffee shop management system\\coffee shop management system\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFAD131-03EA-4954-A03E-F4D47B9A8289}|Coffee shop management system\\Coffee shop management system.csproj|solutionrelative:coffee shop management system\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFAD131-03EA-4954-A03E-F4D47B9A8289}|Coffee shop management system\\Coffee shop management system.csproj|D:\\Coffee shop management system\\coffee shop management system\\allusercontrols\\uc_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFAD131-03EA-4954-A03E-F4D47B9A8289}|Coffee shop management system\\Coffee shop management system.csproj|solutionrelative:coffee shop management system\\allusercontrols\\uc_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFAD131-03EA-4954-A03E-F4D47B9A8289}|Coffee shop management system\\Coffee shop management system.csproj|D:\\Coffee shop management system\\coffee shop management system\\allusercontrols\\uc_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EFAD131-03EA-4954-A03E-F4D47B9A8289}|Coffee shop management system\\Coffee shop management system.csproj|solutionrelative:coffee shop management system\\allusercontrols\\uc_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\Coffee shop management system\\Coffee shop management system\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Coffee shop management system\\MainMenu.cs",
+              "ToolTip": "D:\\Coffee shop management system\\Coffee shop management system\\MainMenu.cs",
+              "RelativeToolTip": "Coffee shop management system\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T14:03:28.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenu.cs [Design]",
+              "DocumentMoniker": "D:\\Coffee shop management system\\Coffee shop management system\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Coffee shop management system\\MainMenu.cs",
+              "ToolTip": "D:\\Coffee shop management system\\Coffee shop management system\\MainMenu.cs [Design]",
+              "RelativeToolTip": "Coffee shop management system\\MainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T14:01:42.922Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "loginfrom.cs",
+              "DocumentMoniker": "D:\\Coffee shop management system\\Coffee shop management system\\loginfrom.cs",
+              "RelativeDocumentMoniker": "Coffee shop management system\\loginfrom.cs",
+              "ToolTip": "D:\\Coffee shop management system\\Coffee shop management system\\loginfrom.cs",
+              "RelativeToolTip": "Coffee shop management system\\loginfrom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-15T14:31:24.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\Coffee shop management system\\Coffee shop management system\\Register.cs",
+              "RelativeDocumentMoniker": "Coffee shop management system\\Register.cs",
+              "ToolTip": "D:\\Coffee shop management system\\Coffee shop management system\\Register.cs",
+              "RelativeToolTip": "Coffee shop management system\\Register.cs",
+              "ViewState": "AQIAAB0AAABgMzMzMzMhwCcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T13:43:27.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coffee shop management system\\Coffee shop management system\\Program.cs",
+              "RelativeDocumentMoniker": "Coffee shop management system\\Program.cs",
+              "ToolTip": "D:\\Coffee shop management system\\Coffee shop management system\\Program.cs",
+              "RelativeToolTip": "Coffee shop management system\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIA0wBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T13:49:06.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "D:\\Coffee shop management system\\Coffee shop management system\\Register.cs",
+              "RelativeDocumentMoniker": "Coffee shop management system\\Register.cs",
+              "ToolTip": "D:\\VS Project\\Coffee shop management system\\Coffee shop management system\\Register.cs [Design]",
+              "RelativeToolTip": "..\\VS Project\\Coffee shop management system\\Coffee shop management system\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T13:31:06.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "loginfrom.cs [Design]",
+              "DocumentMoniker": "D:\\Coffee shop management system\\Coffee shop management system\\loginfrom.cs",
+              "RelativeDocumentMoniker": "Coffee shop management system\\loginfrom.cs",
+              "ToolTip": "D:\\Coffee shop management system\\Coffee shop management system\\loginfrom.cs [Design]",
+              "RelativeToolTip": "Coffee shop management system\\loginfrom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-15T14:45:12.332Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UC_employee.cs",
+              "DocumentMoniker": "D:\\Coffee shop management system\\Coffee shop management system\\AllUserControls\\UC_employee.cs",
+              "RelativeDocumentMoniker": "Coffee shop management system\\AllUserControls\\UC_employee.cs",
+              "ToolTip": "D:\\Coffee shop management system\\Coffee shop management system\\AllUserControls\\UC_employee.cs",
+              "RelativeToolTip": "Coffee shop management system\\AllUserControls\\UC_employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-15T14:31:24.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Function.cs",
+              "DocumentMoniker": "D:\\Coffee shop management system\\Coffee shop management system\\Function.cs",
+              "RelativeDocumentMoniker": "Coffee shop management system\\Function.cs",
+              "ToolTip": "D:\\Coffee shop management system\\Coffee shop management system\\Function.cs",
+              "RelativeToolTip": "Coffee shop management system\\Function.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwBcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-15T14:31:24.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UC_customer.cs",
+              "DocumentMoniker": "D:\\Coffee shop management system\\Coffee shop management system\\AllUserControls\\UC_customer.cs",
+              "RelativeDocumentMoniker": "Coffee shop management system\\AllUserControls\\UC_customer.cs",
+              "ToolTip": "D:\\Coffee shop management system\\Coffee shop management system\\AllUserControls\\UC_customer.cs",
+              "RelativeToolTip": "Coffee shop management system\\AllUserControls\\UC_customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-15T14:31:24.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UC_customer.cs [Design]",
+              "DocumentMoniker": "D:\\Coffee shop management system\\Coffee shop management system\\AllUserControls\\UC_customer.cs",
+              "RelativeDocumentMoniker": "Coffee shop management system\\AllUserControls\\UC_customer.cs",
+              "ToolTip": "D:\\Coffee shop management system\\Coffee shop management system\\AllUserControls\\UC_customer.cs [Design]",
+              "RelativeToolTip": "Coffee shop management system\\AllUserControls\\UC_customer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-15T14:31:24.861Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
